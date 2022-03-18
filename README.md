@@ -1,3 +1,3 @@
 # git_test
-my forst github repo!
+my first github repo!
 Hello Odin!
